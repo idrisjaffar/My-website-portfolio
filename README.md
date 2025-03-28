@@ -27,8 +27,8 @@ Based in the vibrant landscapes of Ongata Rongai, I'm a freelance digital specia
 * **LinkedIn:** www.linkedin.com/in/
 jaffar-shariff-a021662a5
 
-* **GitHub:** [Your GitHub Profile URL]
-* **WhatsApp:** [Your WhatsApp Link]
+* **GitHub:** https://github.com/idrisjaffar/My-website-portfolio
+* **WhatsApp:** https://wa.me/+254769165499
 
 ## Tech Stack 🛠️
 
