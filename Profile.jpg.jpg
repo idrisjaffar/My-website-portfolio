@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jaffar Idris | Freelance Web Developer & Content Specialist</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <nav>
+            <div class="logo">Jaffar Idris</div>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <h1>Freelance Web Developer & Content Specialist</h1>
+        <p>Building professional websites and crafting engaging content for clients worldwide</p>
+        <div class="cta-buttons">
+            <button>Hire Me</button>
+            <button>View Portfolio</button>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="section">
+        <h2>About Me</h2>
+        <div class="about-content">
+            <img src="profile-picture.jpg" alt="Jaffar Idris Profile">
+            <div class="bio">
+                <p>Highly motivated ICT professional with expertise in web development, content creation, and customer service. Proficient in HTML/CSS, Microsoft Office Suite, and AI productivity tools.</p>
+                <div class="skills">
+                    <h3>Core Skills</h3>
+                    <ul>
+                        <li>Web Development (HTML/CSS)</li>
+                        <li>Content Writing & Editing</li>
+                        <li>Virtual Assistance</li>
+                        <li>Data Entry & CRM Management</li>
+                        <li>Social Media Management</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section id="services" class="section">
+        <h2>My Services</h2>
+        <div class="service-cards">
+            <div class="card">
+                <h3>Web Development</h3>
+                <p>Build responsive websites using HTML/CSS and CMS platforms</p>
+            </div>
+            <div class="card">
+                <h3>Content Creation</h3>
+                <p>Write engaging articles, blog posts, and marketing materials</p>
+            </div>
+            <div class="card">
+                <h3>Virtual Assistance</h3>
+                <p>Email management, scheduling, and customer support</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="section">
+        <h2>Current Projects</h2>
+        <div class="project-grid">
+            <div class="project-card">
+                <h3>Website Development</h3>
+                <p>Building client websites using modern web technologies</p>
+            </div>
+            <div class="project-card">
+                <h3>Content Writing</h3>
+                <p>Creating SEO-optimized articles for businesses</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="section">
+        <h2>Get in Touch</h2>
+        <div class="contact-info">
+            <div class="contact-card">
+                <h3>Contact Details</h3>
+                <p>Phone: (+254) 69165499</p>
+                <p>Email: idrisjaphar@gmail.com</p>
+                <p>WhatsApp: +254769165499</p>
+            </div>
+            <div class="contact-card">
+                <h3>Social Media</h3>
+                <ul>
+                    <li><a href="#">LinkedIn</a></li>
+                    <li><a href="#">Twitter</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 Jaffar Idris. All rights reserved.</p>
+    </footer>
+</body>
+</html>
