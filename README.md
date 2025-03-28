@@ -22,9 +22,11 @@ Based in the vibrant landscapes of Ongata Rongai, I'm a freelance digital specia
 
 ## Let's Connect! 🤝
 
-* **Email:** [Your Email Address]
-* **Phone:** [Your Phone Number]
-* **LinkedIn:** [Your LinkedIn Profile URL]
+* **Email:** idrisjaphar@gmail.com
+* **Phone:** +254769165499
+* **LinkedIn:** www.linkedin.com/in/
+jaffar-shariff-a021662a5
+
 * **GitHub:** [Your GitHub Profile URL]
 * **WhatsApp:** [Your WhatsApp Link]
 
